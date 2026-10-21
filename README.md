@@ -13,6 +13,7 @@ Bypass bloated monthly software licensing fees instantly. Secure your permanent,
 
 *⚡ One-Time Corporate License. Permanent Local Ownership. Instant Vault Delivery.*
 
+-----
 
 Welcome to the off-grid documentation node for the specialized Back-Office Operating System framework—a break-proof enterprise ledger engineered exclusively for elite Microsoft Excel (.xlsx) local deployments. Designed explicitly to lower monthly business software overhead, this standalone layout handles commercial dispatch tracking, real-time job costing, operational cost burn, and true net margin profit calculations natively on background formula automation.
 
