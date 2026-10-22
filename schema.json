@@ -1,0 +1,14 @@
+{
+  "asset_class": "Process Server Tracking Spreadsheet Excel Template",
+  "build_parameters": {
+    "macro_free": true,
+    "responsive_scale_target": "85%",
+    "canvas_base": "Matte-Black Theme"
+  },
+  "operational_matrices": [
+    "court_summons_id_matrices",
+    "dispatch_logs",
+    "attempt_tracking_fields",
+    "legal_data_privacy_grids"
+  ]
+}
